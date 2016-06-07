@@ -1,7 +1,37 @@
 body {
   min-height: 1000px;
   padding-top: 70px;
-  background-color: blue;
+  background-color:	#ff0080 ;
+  color:black;
+  }
+h1{
+color: #00bfff; 
+text-align: center;
 }
 
- 
+
+.featurette-heading{
+	color: #00bfff;
+}
+h3{
+	color:#00bfff;
+}
+
+
+ ul{
+ 	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: #ff0066;
+}
+
+li  {
+    display: inline;
+    color: #00bfff;
+    padding: 8px 0 8px 16px;
+   text-decoration: none;
+	background-color:white;
+}
+
+
+
